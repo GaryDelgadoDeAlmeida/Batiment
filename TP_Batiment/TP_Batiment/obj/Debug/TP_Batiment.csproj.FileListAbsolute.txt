@@ -1,0 +1,7 @@
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Batiment\TP_Batiment\bin\Debug\TP_Batiment.exe.config
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Batiment\TP_Batiment\bin\Debug\TP_Batiment.exe
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Batiment\TP_Batiment\bin\Debug\TP_Batiment.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Batiment\TP_Batiment\obj\Debug\TP_Batiment.csprojAssemblyReference.cache
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Batiment\TP_Batiment\obj\Debug\TP_Batiment.csproj.CoreCompileInputs.cache
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Batiment\TP_Batiment\obj\Debug\TP_Batiment.exe
+C:\Users\garya\Documents\Developpment\Application\C#\TP_Batiment\TP_Batiment\obj\Debug\TP_Batiment.pdb
